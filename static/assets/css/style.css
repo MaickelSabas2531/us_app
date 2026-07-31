@@ -1,13 +1,16 @@
-.body{
+body {
     background-color: rgb(255, 255, 255);
     margin: 0;
     padding: 0;
+    font-family: Arial, sans-serif;
 }
 
-.formulario_inicio_sesion{
+.formulario_inicio_sesion {
     text-align: center;
-    margin: auto;
-    width: 20%;
-    height: 20%;
+    margin: 80px auto;
+    width: 320px;
+    padding: 20px;
     border: 1px solid black;
+    border-radius: 8px;
+    background-color: #f9f9f9;
 }
